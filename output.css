@@ -109,3 +109,24 @@ p{
 }
 
 /* .tab { text-indent:40px } */
+
+figcaption{
+  font-size:medium
+}
+
+.space { margin-top: 490px; }
+
+.thumb1 { 
+  width: 900px;
+  height: 300px;
+  overflow: hidden;
+}
+
+footer{
+  text-align: center;
+}
+
+/* .thumb1:hover { 
+  width: 500px;
+  height: 250px;
+ } */
