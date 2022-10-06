@@ -114,11 +114,15 @@ figcaption{
   font-size:medium
 }
 
-.space { margin-top: 490px; }
+.space { margin-top: 520px; }
+
+.space2 {
+  margin-top: 840px;
+}
 
 .thumb1 { 
   width: 900px;
-  height: 300px;
+  height: 350px;
   overflow: hidden;
 }
 
